@@ -52,7 +52,7 @@ export default function App() {
 
       <button
         className="btn-primary"
-        onClick={() => toast(<ToastifyNotification title="New Message" body="Hi Bori!" />)}
+        onClick={() => toast(<ToastifyNotification title="New Message" body="Hi there!" />)}
       >
         Show toast notification
       </button>
